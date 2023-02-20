@@ -17,7 +17,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class MainActivity extends AppCompatActivity {
-
+//checking -->
     RecyclerView recyclerView;
     RecyclerView.LayoutManager layoutManager;
     List<RetrofitData> data;
